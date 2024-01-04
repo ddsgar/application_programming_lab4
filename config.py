@@ -1,0 +1,3 @@
+settings = {
+    'API_TOKEN' : '6698266797:AAH78t1PeXCXKC8dRZIQjcW0S6YI4v2dJN8',
+}
